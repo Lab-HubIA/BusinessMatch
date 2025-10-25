@@ -1,17 +1,5 @@
-# macOS
-.DS_Store
-
-# Python
-__pycache__/
-*.pyc
-venv/
-
-# Node
 node_modules/
-dist/
-build/
-*.log
-
-# Env
 .env
-.env.*
+*.log
+.GitHub/
+.DS_Store
